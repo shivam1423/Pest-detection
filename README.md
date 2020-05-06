@@ -3,7 +3,9 @@ Pest Detection using Deep Learning and Tensorflow from scratch.
 
 ## How to Run
 
-Easy way: run this Colab Notebook.
+Easy way: run pest_detection.ipynb Colab Notebook.
+
+To retrain the weigth you can use pest_detection_weight.ipynb Colab Notebook.
 
 ## Pest Dataset
 Download Training Dataset from given Link
@@ -22,3 +24,9 @@ Requirements:
 
 1. frozen_inference_graph.pb Frozen TensorFlow object detection model downloaded from Colab after training.
 2. label_map.pbtxt File used to map correct name for predicted class index downloaded from Colab after training.
+
+## To perform predictions
+1. Put all the input image file in ``test/input/``.
+2. Run pest_detection.ipynb Colab Notebook.
+3. All the outputs images will be stored in ``test/output/``.
+
