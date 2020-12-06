@@ -1,3 +1,6 @@
+# KWOC slack channel link
+https://join.slack.com/t/pestdetection/shared_invite/zt-jrnfw1md-KT7tyKC1xUC7W7t0Co7FZQ
+
 # Pest_detection
 Pest Detection using Deep Learning and Tensorflow from scratch.
 
