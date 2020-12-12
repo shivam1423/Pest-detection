@@ -1,1 +1,1 @@
-Annotate these files as `rice leaf roller`
+Annotate these files as `grub`
