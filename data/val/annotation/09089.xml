@@ -1,0 +1,26 @@
+<annotation>
+	<folder>0</folder>
+	<filename>09089.jpg</filename>
+	<path>/Users/mdsalmanansari/Pest-detection/data/val/0/09089.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>grub</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>339</ymin>
+			<xmax>2428</xmax>
+			<ymax>1339</ymax>
+		</bndbox>
+	</object>
+</annotation>
